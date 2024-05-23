@@ -69,7 +69,7 @@
 }
 .wrapper{
     background-color: rgb(44, 43, 43);
-    width:1200px;
+    width:1000px;
     margin:0 auto;
     height: calc(100vh - 100px);
     border-radius: 20px;
@@ -123,7 +123,7 @@
     text-align: center;
     background-color: rgb(123, 121, 121);
     color: var(--text-color);
-    
+    position: relative;
     display: flex;
     align-items: center;
     border-top-left-radius: 20px;
@@ -206,6 +206,7 @@
     align-items: center;
     justify-content: center;
     transition-duration: 1s;
+    position: relative;
    
 }
 
@@ -433,6 +434,5 @@
         margin-top: 20px;
     }
 }
-
 
 
