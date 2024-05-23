@@ -73,6 +73,7 @@
     margin:0 auto;
     height: calc(100vh - 100px);
     border-radius: 20px;
+    position: relative;
     box-shadow: -12px 10px 18px 1px rgb(0 0 0 /44%);
 }
 
